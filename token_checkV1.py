@@ -1,4 +1,4 @@
-#codigo_fonte_copyright
+#do not copy the code
 #creating by: JS
 from os import system
 import platform as x0x00
